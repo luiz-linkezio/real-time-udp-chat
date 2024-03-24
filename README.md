@@ -159,7 +159,7 @@ https://github.com/Dev-JoseRonaldo/real-time-udp-chat.git
 
 #### Luiz Henrique
 - Linkedin: https://www.linkedin.com/in/lhbas/
-- Email: henriqueb999@yahoo.com.br
+- Email: luizlinkezio@gmail.com
 
 #### Mariana Marinho 
 - Linkedin: https://www.linkedin.com/in/mariana--marinho/
